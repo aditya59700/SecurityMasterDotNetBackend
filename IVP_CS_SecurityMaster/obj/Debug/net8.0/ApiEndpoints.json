@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
+    "Method": "AddBond",
+    "RelativePath": "api/Bond",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
+    "Method": "DeleteEquity",
+    "RelativePath": "api/Bond/DeleteEquitySecurity/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
+    "Method": "GetAllEquity",
+    "RelativePath": "api/Bond/GetAllEquitySecurity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
+    "Method": "UpdateEquity",
+    "RelativePath": "api/Bond/UpdateEquity",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bondm",
+        "Type": "Model_Library.UpdateBondSecurity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.EquityController",
+    "Method": "DeleteEquity",
+    "RelativePath": "api/Equity/DeleteEquitySecurity/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.EquityController",
+    "Method": "GetAllEquity",
+    "RelativePath": "api/Equity/GetAllEquitySecurity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.EquityController",
+    "Method": "UpdateEquity",
+    "RelativePath": "api/Equity/UpdateEquity/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eqm",
+        "Type": "Model_Library.UpdateEquitySecurity",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[IVP_CS_SecurityMaster.WeatherForecast, IVP_CS_SecurityMaster, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

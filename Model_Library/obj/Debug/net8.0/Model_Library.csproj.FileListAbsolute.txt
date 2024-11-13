@@ -1,0 +1,12 @@
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\bin\Debug\net8.0\Model_Library.deps.json
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\bin\Debug\net8.0\Model_Library.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\bin\Debug\net8.0\Model_Library.pdb
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.AssemblyInfoInputs.cache
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.AssemblyInfo.cs
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.csproj.CoreCompileInputs.cache
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\refint\Model_Library.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.pdb
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\ref\Model_Library.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.csproj.AssemblyReference.cache
