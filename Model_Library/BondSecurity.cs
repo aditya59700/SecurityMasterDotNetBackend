@@ -9,12 +9,17 @@ namespace Model_Library
 {
     public class BondSecurity
     {
+           [Ignore]
+            public int SecurityId { get; set; }
+
             // Bond Security Summary (SecuritySummary)
             [Name("Security Name")]
             public string SecurityName { get; set; }
 
             [Name("Security Description")]
             public string SecurityDescription { get; set; }
+            [Ignore]
+            public bool? IsActive { get; set; }
 
             [Name("Asset Type")]
             public string AssetType { get; set; }
@@ -64,7 +69,7 @@ namespace Model_Library
             public string CouponType { get; set; }
 
             [Name("Spread")]
-            public string Spread { get; set; }
+            public decimal? Spread { get; set; }
 
             [Name("Callable Flag")]
             public bool? IsCallable { get; set; }
@@ -135,7 +140,7 @@ namespace Model_Library
             public string FormPFLiquidityProfile { get; set; }
 
             [Name("PF Maturity")]
-            public DateTime? FormPFMaturity { get; set; }
+            public string? FormPFMaturity { get; set; }
 
             [Name("PF NAICS Code")]
             public string FormPFNAICSCode { get; set; }

@@ -10,7 +10,7 @@ namespace IVP_CS_SecurityMaster.Security_Repository.EquityRepository
 
         public Task<string> DeleteSecurityAsync(int securityId);
 
-        public Task<List<UpdateEquitySecurity>> GetSecurityDataAsync();
+        public Task<List<EquitySecurity>> GetSecurityDataAsync();
 
     }
 }

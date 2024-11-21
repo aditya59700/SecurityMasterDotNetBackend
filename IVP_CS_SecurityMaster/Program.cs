@@ -1,7 +1,9 @@
 
+using IVP_CS_SecurityMaster.AuditRepository;
 using IVP_CS_SecurityMaster.Security_Repository.BondOperation;
 using IVP_CS_SecurityMaster.Security_Repository.EquityRepository;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 namespace IVP_CS_SecurityMaster
 {
@@ -24,10 +26,19 @@ namespace IVP_CS_SecurityMaster
                                        .AllowAnyMethod();
                                   });
             });
+            Log.Logger = new LoggerConfiguration()
+                .ReadFrom.Configuration(builder.Configuration)
+                .Enrich.FromLogContext()
+                //.WriteTo.Console()
+                //.WriteTo.File("log/MyLog.txt")
+                .CreateLogger();
+
+            builder.Host.UseSerilog();
 
             builder.Services.AddControllers();
             builder.Services.AddTransient<IEquity,EquityOperation>();
             builder.Services.AddTransient<IBond,BondOperation>();
+            builder.Services.AddTransient<IAudit,AuditOperation>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

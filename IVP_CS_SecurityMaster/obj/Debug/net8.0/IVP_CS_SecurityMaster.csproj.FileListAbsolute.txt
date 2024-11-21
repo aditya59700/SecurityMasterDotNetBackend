@@ -87,3 +87,15 @@ C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bi
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Model_Library.dll
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Model_Library.pdb
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\obj\Debug\net8.0\IVP_CS_SecurityMaster.sourcelink.json
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\bin\Debug\net8.0\Serilog.Sinks.File.dll

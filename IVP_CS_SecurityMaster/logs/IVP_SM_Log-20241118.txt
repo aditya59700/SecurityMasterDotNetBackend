@@ -1,0 +1,77 @@
+2024-11-18 23:32:09.129 +05:30 [INF] Now listening on: https://localhost:7008
+2024-11-18 23:32:09.166 +05:30 [INF] Now listening on: http://localhost:5046
+2024-11-18 23:32:09.251 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 23:32:09.252 +05:30 [INF] Hosting environment: Development
+2024-11-18 23:32:09.253 +05:30 [INF] Content root path: C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster
+2024-11-18 23:32:10.957 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7008/swagger/index.html - null null
+2024-11-18 23:32:11.394 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7008/swagger/index.html - 200 null text/html;charset=utf-8 445.6003ms
+2024-11-18 23:32:12.060 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7008/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-18 23:32:12.060 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7008/_vs/browserLink - null null
+2024-11-18 23:32:12.080 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7008/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 20.1176ms
+2024-11-18 23:32:12.162 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7008/_vs/browserLink - 200 null text/javascript; charset=UTF-8 102.2252ms
+2024-11-18 23:32:12.190 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7008/swagger/v1/swagger.json - null null
+2024-11-18 23:32:12.471 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7008/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 280.7105ms
+2024-11-18 23:32:24.828 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7008/api/Equity/GetAllEquitySecurity - null null
+2024-11-18 23:32:24.842 +05:30 [INF] Executing endpoint 'IVP_CS_SecurityMaster.Controllers.EquityController.GetAllEquity (IVP_CS_SecurityMaster)'
+2024-11-18 23:32:24.873 +05:30 [INF] Route matched with {action = "GetAllEquity", controller = "Equity"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEquity() on controller IVP_CS_SecurityMaster.Controllers.EquityController (IVP_CS_SecurityMaster).
+2024-11-18 23:32:24.883 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:32:25.501 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:32:25.514 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Model_Library.EquitySecurity, Model_Library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-11-18 23:32:25.561 +05:30 [INF] Executed action IVP_CS_SecurityMaster.Controllers.EquityController.GetAllEquity (IVP_CS_SecurityMaster) in 678.9094ms
+2024-11-18 23:32:25.565 +05:30 [INF] Executed endpoint 'IVP_CS_SecurityMaster.Controllers.EquityController.GetAllEquity (IVP_CS_SecurityMaster)'
+2024-11-18 23:32:25.566 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7008/api/Equity/GetAllEquitySecurity - 200 null application/json; charset=utf-8 738.8133ms
+2024-11-18 23:34:01.964 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:34:02.835 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:36:14.674 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:36:15.613 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:36:25.939 +05:30 [INF] Fetching all bond securities.
+2024-11-18 23:36:26.005 +05:30 [INF] Successfully fetched all bond securities.
+2024-11-18 23:36:43.459 +05:30 [INF] Deleting bond security with ID: 82929
+2024-11-18 23:36:43.559 +05:30 [INF] Bond security deleted successfully.
+2024-11-18 23:39:24.087 +05:30 [INF] Deleting bond security with ID: 7889
+2024-11-18 23:39:25.269 +05:30 [ERR] SQl Error occurred while deleting bond security with ID: 7889
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Security_Name', table 'IVP_SM_AA.Master.Security_Audit'; column does not allow nulls. INSERT fails.
+Cannot insert the value NULL into column 'Security_Name', table 'IVP_SM_AA.Master.Security_Audit'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__210_1(IAsyncResult result)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at IVP_CS_SecurityMaster.Security_Repository.BondOperation.BondOperation.DeleteSecurityAsync(Int32 securityId) in C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\Security Repository\BondOperation\BondOperation.cs:line 210
+   at IVP_CS_SecurityMaster.Controllers.BondController.DeleteBond(Int32 id) in C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\IVP_CS_SecurityMaster\Controllers\BondController.cs:line 145
+ClientConnectionId:190af39a-a6a0-45d1-bc2b-e97714c2868b
+Error Number:515,State:2,Class:16
+2024-11-18 23:40:44.266 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:40:44.915 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:40:45.004 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:40:45.049 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:40:46.282 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:40:46.327 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:40:46.336 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:40:46.367 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:40:49.612 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:40:49.670 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:40:49.749 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:40:49.785 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:40:50.744 +05:30 [INF] Fetching all bond securities.
+2024-11-18 23:40:50.824 +05:30 [INF] Successfully fetched all bond securities.
+2024-11-18 23:40:55.214 +05:30 [INF] Deleting bond security with ID: 106
+2024-11-18 23:40:55.300 +05:30 [INF] Bond security deleted successfully.
+2024-11-18 23:40:55.319 +05:30 [INF] Fetching all bond securities.
+2024-11-18 23:40:55.368 +05:30 [INF] Successfully fetched all bond securities.
+2024-11-18 23:41:09.453 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:41:09.497 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:41:09.602 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:41:09.640 +05:30 [INF] Successfully fetched all equity securities.
+2024-11-18 23:41:14.544 +05:30 [INF] Fetching all bond securities.
+2024-11-18 23:41:14.588 +05:30 [INF] Successfully fetched all bond securities.
+2024-11-18 23:41:20.174 +05:30 [INF] Fetching all equity securities.
+2024-11-18 23:41:20.221 +05:30 [INF] Successfully fetched all equity securities.

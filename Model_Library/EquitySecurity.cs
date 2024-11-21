@@ -8,6 +8,9 @@ namespace Model_Library
  
     public class EquitySecurity
     {
+        [Ignore]
+        public int SecurityId { get; set; }
+
         [Name("Security Name")]
         public string SecurityName { get; set; }
 
@@ -101,6 +104,9 @@ namespace Model_Library
 
         [Name("PF Credit Rating")]
         public string PFCreditRating { get; set; }
+
+        [Name("PF Currency")]
+        public string PFCurrency { get; set; }
 
         [Name("PF Instrument")]
         public string PFInstrument { get; set; }

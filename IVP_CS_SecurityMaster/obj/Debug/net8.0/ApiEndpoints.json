@@ -1,24 +1,18 @@
 [
   {
-    "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
-    "Method": "AddBond",
-    "RelativePath": "api/Bond",
-    "HttpMethod": "POST",
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.AuditController",
+    "Method": "GetAuditData",
+    "RelativePath": "api/Audit",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
-    "Method": "DeleteEquity",
-    "RelativePath": "api/Bond/DeleteEquitySecurity/{id}",
+    "Method": "DeleteBond",
+    "RelativePath": "api/Bond/DeleteBondSecurity/{id}",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -33,8 +27,8 @@
   },
   {
     "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
-    "Method": "GetAllEquity",
-    "RelativePath": "api/Bond/GetAllEquitySecurity",
+    "Method": "GetAllBond",
+    "RelativePath": "api/Bond/GetAllBondSecurity",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -43,8 +37,8 @@
   },
   {
     "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
-    "Method": "UpdateEquity",
-    "RelativePath": "api/Bond/UpdateEquity",
+    "Method": "UpdateBond",
+    "RelativePath": "api/Bond/UpdateBond/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -53,6 +47,27 @@
         "Name": "bondm",
         "Type": "Model_Library.UpdateBondSecurity",
         "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.BondController",
+    "Method": "UploadCsv",
+    "RelativePath": "api/Bond/UploadBondDataFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -100,6 +115,22 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IVP_CS_SecurityMaster.Controllers.EquityController",
+    "Method": "UploadCsv",
+    "RelativePath": "api/Equity/UploadEquityDataFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

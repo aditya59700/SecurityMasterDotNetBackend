@@ -161,3 +161,4 @@ C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\CS_ConsoleApp\obj\Debug\
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\CS_ConsoleApp\obj\Debug\net8.0\CS_ConsoleApp.genruntimeconfig.cache
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\CS_ConsoleApp\obj\Debug\net8.0\ref\CS_ConsoleApp.dll
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\CS_ConsoleApp\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\CS_ConsoleApp\obj\Debug\net8.0\CS_ConsoleApp.sourcelink.json

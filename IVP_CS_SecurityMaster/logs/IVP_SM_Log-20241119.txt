@@ -1,0 +1,1 @@
+2024-11-19 00:58:19.831 +05:30 [INF] Fetching all equity securities.

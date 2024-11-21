@@ -10,3 +10,4 @@ C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.pdb
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\ref\Model_Library.dll
 C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.csproj.AssemblyReference.cache
+C:\Users\asparanjape\source\repos\IVP_CS_SecurityMaster\Model_Library\obj\Debug\net8.0\Model_Library.sourcelink.json

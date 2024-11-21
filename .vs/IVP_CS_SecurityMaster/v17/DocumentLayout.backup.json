@@ -3,64 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\controllers\\equitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\controllers\\equitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\security repository\\equityrepository\\iequity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\security repository\\equityrepository\\iequity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\security repository\\equityrepository\\equityoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\security repository\\equityrepository\\equityoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\updateequitysecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\updateequitysecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\equitysecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\equitysecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\bondsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\bondsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\controllers\\bondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\controllers\\bondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\security repository\\bondoperation\\bondoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\security repository\\bondoperation\\bondoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\controllers\\bondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\controllers\\bondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\security repository\\bondoperation\\ibond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\security repository\\bondoperation\\ibond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\controllers\\equitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\controllers\\equitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\bondsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\bondsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\security repository\\equityrepository\\equityoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\security repository\\equityrepository\\equityoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\auditrepository\\iaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\auditrepository\\iaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\auditrepository\\auditoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\auditrepository\\auditoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\auditdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\auditdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\updatebondsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\updatebondsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95AD6B9-98CC-4639-8AB9-06C85D746504}|CS_ConsoleApp\\CS_ConsoleApp.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\cs_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95AD6B9-98CC-4639-8AB9-06C85D746504}|CS_ConsoleApp\\CS_ConsoleApp.csproj|solutionrelative:cs_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\equitysecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\equitysecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\security repository\\bondoperation\\ibond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\security repository\\bondoperation\\ibond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\security repository\\equityrepository\\iequity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\security repository\\equityrepository\\iequity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\model_library\\updateequitysecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE2501A-361B-47B6-9885-7F6845F5E54C}|Model_Library\\Model_Library.csproj|solutionrelative:model_library\\updateequitysecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D95AD6B9-98CC-4639-8AB9-06C85D746504}|CS_ConsoleApp\\CS_ConsoleApp.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\cs_consoleapp\\securityoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95AD6B9-98CC-4639-8AB9-06C85D746504}|CS_ConsoleApp\\CS_ConsoleApp.csproj|solutionrelative:cs_consoleapp\\securityoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|c:\\users\\asparanjape\\source\\repos\\ivp_cs_securitymaster\\ivp_cs_securitymaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4762EAC7-C8FB-45B8-9FA7-03F24E54FC74}|IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster.csproj|solutionrelative:ivp_cs_securitymaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +82,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\appsettings.Development.json",
+              "RelativeToolTip": "IVP_CS_SecurityMaster\\appsettings.Development.json",
+              "ViewState": "AgIAAA4AAAAANzMzMzPrvxEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T17:51:35.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAudit.cs",
+              "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\AuditRepository\\IAudit.cs",
+              "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\AuditRepository\\IAudit.cs",
+              "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\AuditRepository\\IAudit.cs",
+              "RelativeToolTip": "IVP_CS_SecurityMaster\\AuditRepository\\IAudit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:26:10.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditOperation.cs",
+              "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\AuditRepository\\AuditOperation.cs",
+              "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\AuditRepository\\AuditOperation.cs",
+              "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\AuditRepository\\AuditOperation.cs",
+              "RelativeToolTip": "IVP_CS_SecurityMaster\\AuditRepository\\AuditOperation.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:25:35.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuditController.cs",
+              "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Controllers\\AuditController.cs",
+              "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\Controllers\\AuditController.cs",
+              "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Controllers\\AuditController.cs",
+              "RelativeToolTip": "IVP_CS_SecurityMaster\\Controllers\\AuditController.cs",
+              "ViewState": "AgIAAA8AAACAmJmZmZkFwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:24:10.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditData.cs",
+              "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\AuditData.cs",
+              "RelativeDocumentMoniker": "Model_Library\\AuditData.cs",
+              "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\AuditData.cs",
+              "RelativeToolTip": "Model_Library\\AuditData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:23:15.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,45 +161,49 @@
               "RelativeDocumentMoniker": "Model_Library\\UpdateBondSecurity.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\UpdateBondSecurity.cs",
               "RelativeToolTip": "Model_Library\\UpdateBondSecurity.cs",
-              "ViewState": "AgIAAAkAAABoZmZmZgYwwBEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:30:29.809Z"
+              "WhenOpened": "2024-11-13T10:30:29.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "BondController.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Controllers\\BondController.cs",
               "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\Controllers\\BondController.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Controllers\\BondController.cs",
               "RelativeToolTip": "IVP_CS_SecurityMaster\\Controllers\\BondController.cs",
-              "ViewState": "AgIAAA0AAACwMzMzMzMuwB4AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAGQAAAADwv5gAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:09:14.074Z"
+              "WhenOpened": "2024-11-13T10:09:14.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "IBond.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Security Repository\\BondOperation\\IBond.cs",
               "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\Security Repository\\BondOperation\\IBond.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Security Repository\\BondOperation\\IBond.cs",
               "RelativeToolTip": "IVP_CS_SecurityMaster\\Security Repository\\BondOperation\\IBond.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:01:10.604Z"
+              "WhenOpened": "2024-11-13T10:01:10.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "BondOperation.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Security Repository\\BondOperation\\BondOperation.cs",
               "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\Security Repository\\BondOperation\\BondOperation.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Security Repository\\BondOperation\\BondOperation.cs",
               "RelativeToolTip": "IVP_CS_SecurityMaster\\Security Repository\\BondOperation\\BondOperation.cs",
-              "ViewState": "AgIAAOkAAACAmZmZmRkmwNsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAbGZmZiYswMgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:00:59.408Z"
+              "WhenOpened": "2024-11-13T10:00:59.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -132,38 +213,40 @@
               "RelativeDocumentMoniker": "Model_Library\\BondSecurity.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\BondSecurity.cs",
               "RelativeToolTip": "Model_Library\\BondSecurity.cs",
-              "ViewState": "AgIAAJ0AAADAzMzMzEwjwKUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:59:10.473Z"
+              "WhenOpened": "2024-11-13T09:59:10.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EquityController.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Controllers\\EquityController.cs",
               "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\Controllers\\EquityController.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Controllers\\EquityController.cs",
               "RelativeToolTip": "IVP_CS_SecurityMaster\\Controllers\\EquityController.cs",
-              "ViewState": "AgIAACMAAACAl5mZmZkJwBsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAD0AQAAACAwwKMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T08:43:07.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "UpdateEquitySecurity.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\UpdateEquitySecurity.cs",
               "RelativeDocumentMoniker": "Model_Library\\UpdateEquitySecurity.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\UpdateEquitySecurity.cs",
               "RelativeToolTip": "Model_Library\\UpdateEquitySecurity.cs",
-              "ViewState": "AgIAAAkAAACwmZmZmfkzwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAwMzMzM/MwwA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T08:40:18.498Z"
+              "WhenOpened": "2024-11-13T08:40:18.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\appsettings.json",
               "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\appsettings.json",
@@ -171,91 +254,73 @@
               "RelativeToolTip": "IVP_CS_SecurityMaster\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-13T07:57:34.152Z"
+              "WhenOpened": "2024-11-13T07:57:34.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EquityOperation.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Security Repository\\EquityRepository\\EquityOperation.cs",
               "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\Security Repository\\EquityRepository\\EquityOperation.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Security Repository\\EquityRepository\\EquityOperation.cs",
               "RelativeToolTip": "IVP_CS_SecurityMaster\\Security Repository\\EquityRepository\\EquityOperation.cs",
-              "ViewState": "AgIAAKEAAAAAZGZmZmb6v6QAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAyszMzIwkwH4BAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T07:51:16.037Z"
+              "WhenOpened": "2024-11-13T07:51:16.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "IEquity.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Security Repository\\EquityRepository\\IEquity.cs",
               "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\Security Repository\\EquityRepository\\IEquity.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Security Repository\\EquityRepository\\IEquity.cs",
               "RelativeToolTip": "IVP_CS_SecurityMaster\\Security Repository\\EquityRepository\\IEquity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T07:50:54.642Z"
+              "WhenOpened": "2024-11-13T07:50:54.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "SecurityOperation.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\CS_ConsoleApp\\SecurityOperation.cs",
               "RelativeDocumentMoniker": "CS_ConsoleApp\\SecurityOperation.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\CS_ConsoleApp\\SecurityOperation.cs",
               "RelativeToolTip": "CS_ConsoleApp\\SecurityOperation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAm5mZmZktwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:26:33.735Z"
+              "WhenOpened": "2024-11-12T14:26:33.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\CS_ConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "CS_ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\CS_ConsoleApp\\Program.cs",
-              "RelativeToolTip": "CS_ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAIAAACAmZmZmTk4wAsAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:16:41.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "EquitySecurity.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\EquitySecurity.cs",
               "RelativeDocumentMoniker": "Model_Library\\EquitySecurity.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\EquitySecurity.cs",
               "RelativeToolTip": "Model_Library\\EquitySecurity.cs",
-              "ViewState": "AgIAAAoAAAAAqJmZmZkNwBQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAcwNIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:58:18.385Z"
+              "WhenOpened": "2024-11-12T13:58:18.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\Class1.cs",
-              "RelativeDocumentMoniker": "Model_Library\\Class1.cs",
-              "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\Model_Library\\Class1.cs",
-              "RelativeToolTip": "Model_Library\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:57:51.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Program.cs",
               "RelativeDocumentMoniker": "IVP_CS_SecurityMaster\\Program.cs",
               "ToolTip": "C:\\Users\\asparanjape\\source\\repos\\IVP_CS_SecurityMaster\\IVP_CS_SecurityMaster\\Program.cs",
               "RelativeToolTip": "IVP_CS_SecurityMaster\\Program.cs",
-              "ViewState": "AgIAACQAAAAAkGZmZmbGvy0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAABAAAAAAMAwwCAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:55:20.931Z"
+              "WhenOpened": "2024-11-12T13:55:20.931Z",
+              "EditorCaption": ""
             }
           ]
         }

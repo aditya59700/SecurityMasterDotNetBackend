@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IVP_CS_SecurityMaster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e4a6b33af0ae221253f79fda61f48841a004e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("IVP_CS_SecurityMaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IVP_CS_SecurityMaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
